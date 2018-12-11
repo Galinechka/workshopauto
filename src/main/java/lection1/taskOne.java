@@ -7,6 +7,7 @@
 //        Выведенный текст должен содержать введенное имя.
 //        Выведенный текст должен содержать введенное число.
 
+package lection1;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
